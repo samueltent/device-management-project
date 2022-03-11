@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceManagementAPI", "DeviceManagementAPI\DeviceManagementAPI.csproj", "{55C54A13-F2F6-4FCA-AF62-CA623ED996CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTesting", "IntegrationTesting\IntegrationTesting.csproj", "{153D2DF4-ABF3-4502-B410-C50DEDC94F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C54A13-F2F6-4FCA-AF62-CA623ED996CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C54A13-F2F6-4FCA-AF62-CA623ED996CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C54A13-F2F6-4FCA-AF62-CA623ED996CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C54A13-F2F6-4FCA-AF62-CA623ED996CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153D2DF4-ABF3-4502-B410-C50DEDC94F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153D2DF4-ABF3-4502-B410-C50DEDC94F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153D2DF4-ABF3-4502-B410-C50DEDC94F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153D2DF4-ABF3-4502-B410-C50DEDC94F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC9449B-CDB6-464F-98F7-04BF1C2E8492}
+	EndGlobalSection
+EndGlobal
